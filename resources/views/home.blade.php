@@ -1,5 +1,6 @@
 @extends('layouts.master')
 
 @section('content')
-    Página Principal
-@stop
+    <h1>Bienvenido a Empresa</h1>
+    <p>Contenido de la página principal.</p>
+@endsection
